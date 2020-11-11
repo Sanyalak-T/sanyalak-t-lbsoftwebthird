@@ -1,0 +1,63 @@
+/* header nav */
+.headernav {
+    background-color: #007bff;
+}
+nav a h1 {
+    color: #ffffff;
+}
+nav a small{
+    color: #ffffff;
+}
+nav div a {
+    color: #ffffff;
+}
+
+
+/*index and home page*/
+.homeimages {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+    padding-top: 1rem;
+    width: 1400px; /*1200*/
+    height: 237px;
+    opacity: 0.6;
+  }
+  .textoncenter {
+    position: relative;
+  }
+  .textleft {
+    position: absolute;
+    top: 30px;
+    left: 70px;
+  }
+  .textright {
+    position: absolute;
+    top: 30px;
+    right: 50px;
+  }
+/*product page*/
+.imagesbutton {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 1110px; */
+  }
+
+/* footer nav */
+footer {
+    background-color: #4099ff;
+  }
+  .footernav {
+    text-align: center;
+    padding-top: 1rem;
+  }
+  footer a {
+    color: #f2f2f2;
+  }
+  footer p{
+    color: #f2f2f2;
+    text-align: center;
+    padding-bottom: 1rem;
+  }

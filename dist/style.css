@@ -38,12 +38,18 @@ nav div a {
     right: 50px;
   }
 /*product page*/
-.imagesbutton {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    /* width: 1110px; */
+.imageslink {
+  display: inline-block;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
   }
+  /*bigpoint of service and product*/
+.textcenter {
+  margin-left: 450px;
+}
+
 
 /* footer nav */
 footer {
